@@ -27,6 +27,7 @@ and remember to subscribe our mail list via <dev-subscribe@kylin.apache.org>
 
 License
 ============
+
 Please refer to [LICENSE](https://github.com/apache/kylin/blob/master/LICENSE) file.
 
 
